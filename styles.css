@@ -132,9 +132,25 @@ nav > ul > li > a:hover {
     border-radius: 10px;
     padding: 20px 20px 20px 20px;
     width: 250px;
+    gap: 20px;
 }
 
 .partner > img {
     height: 80px;
     width: 80px;
+}
+
+.partner > h6 {
+    font-size: 15px;
+    font-family: "Jersey 25", sans-serif;
+    color: black;
+    text-align: center;
+    margin: 0px;
+}
+
+.partner > p {
+    font-size: 15px;
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+    color: black;
 }
